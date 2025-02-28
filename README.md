@@ -1,5 +1,4 @@
 [//]: # (DuongNguyen)
-# rfid_c72_plugin_example
 
 Demonstrates how to use the rfid_c72_plugin plugin.
 
@@ -16,4 +15,4 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-JVF Mobile App 1.0.0.5 (Từ ngày 24.12.2024)
+#DuongNguyen
